@@ -1,0 +1,139 @@
+*{
+    font-family: sans-serif;
+    color: #192f60;;
+}
+.nav{
+    width: 1366px;    
+    height: 80px;
+    background-color: #ce0505;
+    margin:-10px 1px -56px -10px;
+    object-fit: cover;
+    
+}
+#log{
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    font-size: 29px;
+    margin-left: 67%;
+}
+#caa{
+    color: white;
+    background-color:transparent;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 29px;
+}
+.e{
+    width: 52px;
+    height: 52px;
+    background-color: #fff;
+    margin-top: -70px;
+    margin-left: 113px;
+    border-radius: 500px;
+    
+}
+#e{
+    margin-left: 10px;
+    color: #ce0505;
+    line-height: 1.5;
+    
+}
+.BPIM{
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 3.5;
+    text-align: left;
+    color: #192f60;
+}
+.menu{
+    width: 260px;
+    height: 790px;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0,0,1);
+    background-color:#fff;
+}
+#sel{
+    height: 40px;
+    width: 240px;
+    font-size: 20px;
+}
+input{
+    height: 15px;
+    width: 15px;
+}
+.food{
+ 
+    width: 700px;
+    height: 291px;
+    margin-left: 450px;
+    margin-top: -845px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0,0,1);
+    background-color:#fff;   
+}
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+#BCC{
+    margin-left: 150px;
+    margin-top: -120px;
+}
+
+#F{
+    margin-left: 160px;
+    margin-top: -10px;
+}
+#S{
+    margin-left: 160px;
+}
+td{
+    font-weight: bold;
+}
+.food1{
+    width: 700px;
+    height: 291px;
+    margin-left: 450px;
+    margin-top: 100px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0,0,1);
+    background-color:#fff;   
+}
+.page{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.box{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    padding: 5px 12px 3px 13px;
+    font-size: 18px;
+    border-radius: 7px;
+    border: 1px solid #8c96ab;
+    background-color: #fff;
+}
+.box1{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    padding: 5px 12px 3px 13px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 7px;
+    border: 1px solid #8c96ab;
+    background-color: #8c96ab;
+}
+table{
+    width: 250px;
+    height: 80px;
+    margin-top: 30px;
+
+}
